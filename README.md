@@ -49,7 +49,7 @@ FLASK
 
 ## Application
 
-This can be used by riders who tend to drive for a longer period of time that may lead to accident space. You may also link to more resources.
+This can be used by companies to ensure that every person is waering massk or not . Also it can be used in public spaces as well for the same concern .You may also link to more resources.
 
 
 

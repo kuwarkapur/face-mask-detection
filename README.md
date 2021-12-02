@@ -49,7 +49,7 @@ FLASK
 
 ## Application
 
-This can be used by companies to ensure that every person is waering massk or not . Also it can be used in public spaces as well for the same concern .You may also link to more resources.
+This can be used by companies to ensure that every person is wearing massk or not . Also it can be used in public spaces as well for the same concern .You may also link to more resources.
 
 
 
